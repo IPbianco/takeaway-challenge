@@ -14,7 +14,7 @@
 
 # Takeaway Challenge
 
-The Takeaway Challenge is the second weekend challenge at Makers Academy. The request was to write a software to simulate a takeaway that could receive orders from a customer. The instructions can be found in the "Instructions.md" file.
+The request was to write a software to simulate a takeaway that could receive orders from a customer. The instructions can be found in the "Instructions.md" file.
 
 This is my proposed solution using Ruby.
 
